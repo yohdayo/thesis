@@ -132,6 +132,22 @@ INPUT pic/robot_location.pdf
 INPUT extractbb -B cropbox -O pic/robot_location.pdf
 INPUT pic/AB_location.pdf
 INPUT extractbb -B cropbox -O pic/AB_location.pdf
+INPUT pic/example01.pdf
+INPUT extractbb -B cropbox -O pic/example01.pdf
+INPUT pic/example02.pdf
+INPUT extractbb -B cropbox -O pic/example02.pdf
+INPUT pic/example03.pdf
+INPUT extractbb -B cropbox -O pic/example03.pdf
+INPUT pic/example04.pdf
+INPUT extractbb -B cropbox -O pic/example04.pdf
+INPUT pic/example05.pdf
+INPUT extractbb -B cropbox -O pic/example05.pdf
+INPUT pic/example11.pdf
+INPUT extractbb -B cropbox -O pic/example11.pdf
+INPUT pic/example12.pdf
+INPUT extractbb -B cropbox -O pic/example12.pdf
+INPUT pic/example21.pdf
+INPUT extractbb -B cropbox -O pic/example21.pdf
 OUTPUT section/5th.aux
 INPUT section/5th.tex
 INPUT section/5th.tex

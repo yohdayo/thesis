@@ -1,0 +1,90 @@
+\begin{thebibliography}{10}
+
+\bibitem{kikiyaku2012}
+目黒豊美, 東中竜一郎, 堂坂浩二, 南泰浩ほか.
+\newblock
+  聞き役対話の分析および分析に基づいた対話制御部の構築.
+\newblock 情報処理学会論文誌, Vol.~53, No.~12, pp. 2787--2801, 2012.
+
+\bibitem{koreisya2000}
+山本浩司, 水谷研治, 岩野腎二.
+\newblock
+  対話ロボットを用いた高齢者コミュニケーション支援システムの開発.
+\newblock 映像情報メディア学会誌, Vol.~54, No.~6, pp. 798--801,
+  2000.
+
+\bibitem{hitask2016}
+小林峻也, 萩原将文.
+\newblock
+  ユーザの嗜好や人間関係を考慮する非タスク指向型対話システム.
+\newblock 人工知能学会論文誌, pp. DSF--502, 2016.
+
+\bibitem{higashinaka2020python}
+東中竜一郎, 稲葉通将, 水上雅博.
+\newblock Python でつくる対話システム.
+\newblock 株式会社 オーム社, 2020.
+
+\bibitem{weizenbaum1966eliza}
+Joseph Weizenbaum.
+\newblock Eliza—a computer program for the study of natural language
+  communication between man and machine.
+\newblock {\em Communications of the ACM}, Vol.~9, No.~1, pp. 36--45, 1966.
+
+\bibitem{winograd1971shrdlu}
+Terry Winograd.
+\newblock Procedures as a representation for data in computer program for
+  understanding natural language.
+\newblock 1971.
+
+\bibitem{buchanan1984rule}
+Bruce~G Buchanan and Edward~H Shortliffe.
+\newblock Rule-based expert systems: the mycin experiments of the stanford
+  heuristic programming project.
+\newblock 1984.
+
+\bibitem{bobrow1977gus}
+Daniel~G Bobrow, Ronald~M Kaplan, Martin Kay, Donald~A Norman, Henry Thompson,
+  and Terry Winograd.
+\newblock Gus, a frame-driven dialog system.
+\newblock {\em Artificial intelligence}, Vol.~8, No.~2, pp. 155--173, 1977.
+
+\bibitem{wu2020tod}
+Chien-Sheng Wu, Steven Hoi, Richard Socher, and Caiming Xiong.
+\newblock Tod-bert: pre-trained natural language understanding for
+  task-oriented dialogue.
+\newblock {\em Proceedings of the 2020 Conference on Empirical Methods in
+  Natural Language Processing}, pp. 917--929, 2020.
+
+\bibitem{higsshinakalive}
+東中竜一郎, 船越孝太郎, 高橋哲朗, 稲葉通将, 角森唯子,
+  赤間怜奈, 宇佐美まゆみ, 川端良子, 水上雅博,
+  小室允人ほか.
+\newblock 対話システムライブコンペティション 3.
+\newblock  人工知能学会研究会資料
+  言語・音声理解と対話処理研究会 90 回, p.~23.
+  一般社団法人 人工知能学会, 2020.
+
+\bibitem{shouo1996}
+中岩浩巳, 池原悟.
+\newblock
+  語用論的・意味論的制約を用いた日本語ゼロ代名詞の文内照応解析.
+\newblock 自然言語処理, Vol.~3, No.~4, pp. 49--65, 1996.
+
+\bibitem{taiwashouo2003}
+徳永健伸, 関谷幸恵, 田中穂積ほか.
+\newblock 対話システムにおけるプランベースの照応解析.
+\newblock 第 65 回全国大会講演論文集, Vol. 2003, No.~1, pp.
+  221--222, 2003.
+
+\bibitem{challenge2015}
+東中竜一郎, 船越孝太郎, 小林優佳, 稲葉通将ほか.
+\newblock 対話破綻検出チャレンジ.
+\newblock {\em SIG-SLUD}, Vol.~5, No.~02, pp. 27--32, 2015.
+
+\bibitem{takeuchi:2017}
+竹内孔一.
+\newblock 語彙概念と語彙概念構造.
+\newblock  松本裕治, 奥村学（編）, コーパスと自然言語処理,
+  pp. 94--113. 朝倉書店, 2017.
+
+\end{thebibliography}

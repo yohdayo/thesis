@@ -1,0 +1,21 @@
+# Fdb version 3
+["dvipdf"] 0 "ccfx.dvi" "ccfx.pdf" "ccfx" 0
+  "ccfx.dvi" 0 -1 0 "latex"
+  (generated)
+  "ccfx.pdf"
+["latex"] 1589211936 "ccfx.tex" "ccfx.dvi" "ccfx" 1589211936
+  "/etc/texmf/web2c/texmf.cnf" 1579720749 475 c0e671620eb5563b2130f56340a5fde8 ""
+  "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
+  "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr10.tfm" 1480098701 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
+  "/usr/share/texlive/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-h.tfm" 1518389381 784 16cfe5ce4e0d8ff9b57bc3b97e76fd9f ""
+  "/usr/share/texlive/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-v.tfm" 1518389381 508 960a4f5090a2481dc6be86c89efe818a ""
+  "/usr/share/texlive/texmf-dist/tex/platex/base/jarticle.cls" 1506553433 25374 87cec365aad536bed75d7864a163645f ""
+  "/usr/share/texlive/texmf-dist/tex/platex/base/jsize11.clo" 1506553433 8466 e586011cf88a6a7001a6c0962cd422d8 ""
+  "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1520210507 32485 c64754543d8ac501bea6e75e209ea521 ""
+  "/usr/share/texmf/web2c/texmf.cnf" 1520210507 32485 c64754543d8ac501bea6e75e209ea521 ""
+  "/var/lib/texmf/web2c/euptex/uplatex.fmt" 1579720762 803682 ba3d84d91ef20129547c3cd93f7add2f ""
+  "ccfx.aux" 1589211841 8 a94a2480d3289e625eea47cd1b285758 ""
+  "ccfx.tex" 1589211071 5018 8f4ea7756bc1d4056815de7c0ab72b84 ""
+  (generated)
+  "ccfx.dvi"
+  "ccfx.log"

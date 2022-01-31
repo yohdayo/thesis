@@ -1,0 +1,40 @@
+\contentsline {section}{\numberline {1}はじめに}{1}
+\contentsline {subsection}{\numberline {1.1}研究背景}{1}
+\contentsline {subsection}{\numberline {1.2}研究の位置付け}{1}
+\contentsline {subsection}{\numberline {1.3}研究目的}{2}
+\contentsline {subsection}{\numberline {1.4}本論文の構成}{2}
+\contentsline {section}{\numberline {2}関連研究}{3}
+\contentsline {subsection}{\numberline {2.1}音声対話システムに関する先行研究}{3}
+\contentsline {subsection}{\numberline {2.2}対話システムの類型}{3}
+\contentsline {section}{\numberline {3}対話システムの構築}{4}
+\contentsline {subsection}{\numberline {3.1}ロボット管理}{4}
+\contentsline {subsubsection}{\numberline {3.1.1}音声認識}{4}
+\contentsline {subsubsection}{\numberline {3.1.2}音声合成}{5}
+\contentsline {subsubsection}{\numberline {3.1.3}口形状生成}{6}
+\contentsline {subsubsection}{\numberline {3.1.4}首動作・状態姿勢生成}{7}
+\contentsline {subsubsection}{\numberline {3.1.5}表情生成・動作統合}{7}
+\contentsline {subsection}{\numberline {3.2}対話管理}{7}
+\contentsline {subsection}{\numberline {3.3}言語理解}{9}
+\contentsline {subsubsection}{\numberline {3.3.1}フレーム表現を用いた発話理解}{9}
+\contentsline {subsubsection}{\numberline {3.3.2}行動選択}{10}
+\contentsline {subsection}{\numberline {3.4}対話を円滑に進める機構}{11}
+\contentsline {subsubsection}{\numberline {3.4.1}対話破綻の抑止}{11}
+\contentsline {subsubsection}{\numberline {3.4.2}観光地に関する情報の拡充}{11}
+\contentsline {section}{\numberline {4}評価実験}{13}
+\contentsline {subsection}{\numberline {4.1}実験設定}{13}
+\contentsline {subsubsection}{\numberline {4.1.1}旅行代理店対話タスク}{13}
+\contentsline {subsubsection}{\numberline {4.1.2}体験やへの事前の指示}{14}
+\contentsline {subsubsection}{\numberline {4.1.3}レギュレーション}{14}
+\contentsline {subsection}{\numberline {4.2}対話の評価手法}{16}
+\contentsline {subsubsection}{\numberline {4.2.1}対話者の評価手法}{16}
+\contentsline {subsubsection}{\numberline {4.2.2}ビデオ評価の評価手法}{17}
+\contentsline {subsection}{\numberline {4.3}実験結果}{18}
+\contentsline {subsection}{\numberline {4.4}対話結果}{18}
+\contentsline {subsection}{\numberline {4.5}アンケート評価の結果}{18}
+\contentsline {section}{\numberline {5}考察}{20}
+\contentsline {subsection}{\numberline {5.1}対話ロボットに関する考察}{20}
+\contentsline {subsection}{\numberline {5.2}対話制御に関する考察}{20}
+\contentsline {section}{\numberline {6}まとめ}{21}
+\contentsline {section}{謝辞}{22}
+\contentsline {section}{使用したツール}{22}
+\contentsline {section}{参考文献}{22}

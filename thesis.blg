@@ -1,0 +1,59 @@
+This is upBibTeX, Version 0.99d-j0.33-u1.22 (utf8.uptex) (TeX Live 2017/Debian)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: thesis.aux
+A level-1 auxiliary file: jacket.aux
+A level-1 auxiliary file: sign.aux
+A level-1 auxiliary file: abstract.aux
+A level-1 auxiliary file: section/1st.aux
+A level-1 auxiliary file: section/2nd.aux
+A level-1 auxiliary file: section/3rd.aux
+A level-1 auxiliary file: section/4th.aux
+A level-1 auxiliary file: section/5th.aux
+A level-1 auxiliary file: section/6th.aux
+The style file: junsrt.bst
+Database file #1: biblio.bib
+Warning--empty journal in winograd1971shrdlu
+Warning--empty journal in buchanan1984rule
+You've used 14 entries,
+            2270 wiz_defined-function locations,
+            640 strings with 6918 characters,
+and the built_in function-call counts, 5183 in all, are:
+= -- 411
+> -- 171
+< -- 25
++ -- 66
+- -- 52
+* -- 269
+:= -- 640
+add.period$ -- 44
+call.type$ -- 14
+change.case$ -- 13
+chr.to.int$ -- 0
+cite$ -- 16
+duplicate$ -- 318
+empty$ -- 465
+format.name$ -- 104
+if$ -- 1273
+int.to.chr$ -- 0
+int.to.str$ -- 14
+missing$ -- 15
+newline$ -- 73
+num.names$ -- 16
+pop$ -- 101
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 253
+stack$ -- 0
+substring$ -- 303
+swap$ -- 108
+text.length$ -- 25
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 2
+while$ -- 46
+width$ -- 16
+write$ -- 153
+is.kanji.str$ -- 176
+(There were 2 warnings)

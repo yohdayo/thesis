@@ -1,0 +1,50 @@
+This is e-upTeX, Version 3.14159265-p3.7.1-u1.22-161114-2.6 (utf8.uptex) (TeX Live 2017/Debian) (preloaded format=uplatex 2020.1.22)  11 MAY 2020 15:45
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**ccfx.tex
+(./ccfx.tex
+pLaTeX2e <2017/10/28u01>+4 (based on LaTeX2e <2017-04-15>)
+Babel <3.18> and hyphenation patterns for 3 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/platex/base/jarticle.cls
+Document Class: jarticle 2017/09/19 v1.7g Standard pLaTeX class
+\c@@paper=\count82
+(/usr/share/texlive/texmf-dist/tex/platex/base/jsize11.clo
+File: jsize11.clo 2017/09/19 v1.7g Standard pLaTeX file (size option)
+LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
+(Font)              scaled to size 10.53629pt on input line 27.
+LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
+(Font)              scaled to size 10.53629pt on input line 27.
+)
+\c@part=\count83
+\c@section=\count84
+\c@subsection=\count85
+\c@subsubsection=\count86
+\c@paragraph=\count87
+\c@subparagraph=\count88
+\c@figure=\count89
+\c@table=\count90
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+
+
+/usr/share/texlive/texmf-dist/tex/platex/base/jarticle.cls:611: LaTeX Error: En
+coding scheme `JY1' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.611 ...\DeclareSymbolFont{mincho}{JY1}{mc}{m}{n}
+                                                   
+Here is how much of TeX's memory you used:
+ 193 strings out of 495109
+ 2315 string characters out of 6185002
+ 54070 words of memory out of 5000000
+ 3763 multiletter control sequences out of 15000+600000
+ 6564 words of font info for 34 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 24i,0n,19p,134b,44s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+No pages of output.
